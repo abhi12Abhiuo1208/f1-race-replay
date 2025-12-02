@@ -1,4 +1,4 @@
-# F1 Race Replay 🏎️ 🏁
+# F1 Race Replay 🏎️ 🏁 - Abhishek S
 
 A Python application for visualizing Formula 1 race telemetry and replaying race events with interactive controls and a graphical interface.
 
@@ -59,16 +59,6 @@ python main.py --year 2025 --round 12 --refresh-data
 - `src/f1_data.py` — Telemetry loading, processing, and frame generation.
 - `src/arcade_replay.py` — Visualization and UI logic.
 
-## Customization
-
-- Change track width, colors, and UI layout in `src/arcade_replay.py`.
-- Adjust telemetry processing in `src/f1_data.py`.
-
-## Contributing
-
-- Open pull requests for UI improvements or new features.
-- Report issues on GitHub.
-
 # Known Issues
 
 - The leaderboard appears to be inaccurate for the first few corners of the race. The leaderboard is also temporarily affected by a driver going in the pits. At the end of the race the leadeboard is sometimes affected by the drivers final x,y positions being further ahead than other drivers. These issues are known issues caused by innacuracies in the telemetry and being worked on for future releases. Its likely that these issues will be fixed in stages as improving the leaderboard accuracy is a complex task.
@@ -82,5 +72,11 @@ This project is licensed under the MIT License.
 No copyright infringement intended. Formula 1 and related trademarks are the property of their respective owners. All data used is sourced from publicly available APIs and is used for educational and non-commercial purposes only.
 
 ---
+## Connect with Me
+[Abhishek S - LinkedIn Profile](https://www.linkedin.com/in/abhiuo007/)
 
-Built with ❤️ by [Tom Shaw](https://tomshaw.dev)
+Special thanks to **Tom Shaw** for providing the core idea and foundational concepts that inspired this project.  
+Connect with him on LinkedIn: [Tom Shaw](https://www.linkedin.com/in/imtomshaw/)
+
+
+
