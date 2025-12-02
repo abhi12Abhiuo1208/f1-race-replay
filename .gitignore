@@ -3,7 +3,8 @@
 output_animation.mp4
 .fastf1-cache
 still_frame.png
-f1env
+f1venv/
+
 __pycache__/
 
 computed_data/
